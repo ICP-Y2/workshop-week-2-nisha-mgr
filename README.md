@@ -83,7 +83,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-
+we observed that the led sparked brightly when the resistors resistance was kept 1 kilo ohm and sparked less when the resistance was 6 kilo ohm, but was damaged at 6 ohm.
+hence, we observed that when the resistance of the resistor is decreased the current increase but when the resistance was increased the current decreases.
 
 ```
 
