@@ -100,7 +100,8 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
-
+We observed that the led sparked bright when the resistance was 1 kilo ohm, sparked less at 6 kilo ohm and was damaged as 0
+hence, we observed that when the resistance of the resistor is decreased the current increase but when the resistance was increased the current decreases.
 
 ```
 ### 4.	Simulation 4: Simulating Voltage Divider Circuit
