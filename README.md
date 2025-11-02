@@ -29,8 +29,8 @@ Figure 2: Series Battery Combination Simulation Circuit
 1.2.	Learning Reflection
 
 Write a brief note about the results of the Series Battery Combination simulation.
-
-
+We observed that when four 1.5 V of battery is connected in series combination the simulator shows overall voltage of 6 v
+hence, when the batteries are connected in series combination, the overall voltage across the circuit is the sum of the voltage of the battries.
 ```
 
 ### 2.	Simulation 2: Simulating Parallel Battery Combination
